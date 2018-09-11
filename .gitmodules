@@ -4,3 +4,6 @@
 [submodule "public/styles.css"]
 	path = public/styles.css
 	url = git://github.com/MG71645/styles.css.git
+[submodule "public/mg.css"]
+	path = public/mg.css
+	url = git://github.com/MG71645/mg.css.git
