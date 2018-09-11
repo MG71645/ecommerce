@@ -1,3 +1,6 @@
 [submodule "public/reset.css"]
 	path = public/reset.css
 	url = git://github.com/MG71645/reset.css.git
+[submodule "public/styles.css"]
+	path = public/styles.css
+	url = git://github.com/MG71645/styles.css.git
